@@ -57,7 +57,7 @@ To get access to this repository, move to "helloMic" repository, and then either
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Elis Memic**
 
 - GitHub: [@memicelis](https://github.com/memicelis)
 - LinkedIn: [Elis Memic](https://www.linkedin.com/in/elis-memic-0a7393bb)
