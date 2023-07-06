@@ -45,7 +45,7 @@ To get a local copy up and running, follow these steps.
 
 Clone this repository to your desired folder:
 
-Here is link to my repository: git@github.com:memicelis/helloMic.git
+Here is link to my repository: https://github.com/memicelis/helloMic.git
 
 To get access to this repository, move to "helloMic" repository, and then either use [ssh] or [https] to clone onto your local machine. To clone checkout this documentation on github (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) You can view this project with you browser.
 
